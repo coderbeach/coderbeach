@@ -1,65 +1,100 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Nisarga</h1>
 
-# 👋 Hi, I'm Nishu
-I enjoy building technology that creates real-world impact,
-from safety platforms to AI-powered applications.
+<h3 align="center">
+AI & ML Student • Builder • Hackathon Enthusiast
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Building+Real+World+Projects;Hackathon+Explorer;Future+AI+Engineer" />
+</p>
+## 🚀 About Me
 
-🎓 Computer Science in Artificial Intelligence and Machine Learning Student
+🎓 B.Tech CSE (AI & ML)
 
-💻 Full Stack Development | Java | SQL | Python
+📍 Bengaluru, India
 
-🤖 Exploring AI, Machine Learning & Data Analytics
+💻 Building AI, Safety and Social Impact Projects
 
-🚀 Building projects that solve real-world problems
-
-🌱 Currently learning:
-- Machine Learning
-- Cloud Technologies
+🌱 Currently Learning:
 - Deep Learning
+- Computer Vision
+- Generative AI
+- React
 
-  🏆 Achievements
-🏅 Java Beginner Certification
+⚡ Fun Fact:
+Most of my projects started as crazy ideas during hackathons.
+## 🛡 SHEShield
 
-🏅 Participated in 2 Hackathons
+Women & Child Safety Platform
 
-🏅 Built multiple full-stack and AI projects
+### Features
 
-🏅 Active learner and project-based developer
+✅ SOS Emergency Alert
 
-My projects:
-🛡️ SHEShield
-Women & Child Safety Platform with emergency assistance features
+✅ Emergency Contact Notification
 
-🐾 PawHope Foundation
-Donation & NGO Management System
+✅ Nearby Police & Hospital Detection
 
-🧠 Breast Cancer Classification
-Machine Learning-based cancer prediction system
+✅ Evidence Video Recording
 
-🌐 Personal Portfolio Website
-Responsive portfolio showcasing projects and skills
+✅ Threat Monitoring
 
-Tech Stack:
-Languages:
-Java • Python • SQL • JavaScript
+✅ Offline Proof Storage
 
-Frontend:
-HTML • CSS • React
+## 🚗 Parko
 
-Backend:
-Node.js • Express.js
+Smart Parking Reservation Platform
 
-Database:
-MySQL
+- Slot Booking
+- QR Verification
+- Digital Payments
+- Real-Time Availability
 
-Tools:
-Git • GitHub • VS Code
+- ## ❤️ PawHope Foundation
 
-Github stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+NGO & Donation Management Platform
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+- Donation Tracking
+- Campaign Management
+- Dashboard Analytics
+- Foundation Administration
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,git,github,mysql,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=coderbeach)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderbeach)
+
+## 💼 Internship Experience
+
+🌟 Web Developer Intern
+InAMigis Foundation
+
+🌟 Frontend Developer Intern
+Zwapy
+
+🌟 AI & ML Intern
+Internspark
+
+🌟 Data Analyst Intern
+Elevate Labs
+
+🌟 NVIDIA AI Internship Certification
+Coming Soon
+
+## 🏆 Achievements
+
+🥇 Multiple Hackathon Participant
+
+🥇 30+ HackerRank Problems Solved
+
+🥇 Event Volunteer
+
+🥇 CodeQuest in C and Python
 
 
