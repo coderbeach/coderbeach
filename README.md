@@ -18,15 +18,14 @@ AI & ML Student • Builder • Hackathon Enthusiast
 - Deep Learning
 - Computer Vision
 - Generative AI
-- React
 
-⚡ Fun Fact:
+# ⚡ Fun Fact:
 Most of my projects started as crazy ideas during hackathons.
 ## 🛡 SHEShield
 
 Women & Child Safety Platform
 
-### Features
+# Features
 
 ✅ SOS Emergency Alert
 
@@ -61,21 +60,16 @@ NGO & Donation Management Platform
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,git,github,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,machinelearning,git,github,mysql,vscode" />
 </p>
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=coderbeach)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderbeach)
 
 ## 💼 Internship Experience
 
 🌟 Web Developer Intern
 InAMigis Foundation
 
-🌟 Frontend Developer Intern
+🌟 Frontend Developer Intern(Offline)
 Zwapy
 
 🌟 AI & ML Intern
@@ -84,7 +78,7 @@ Internspark
 🌟 Data Analyst Intern
 Elevate Labs
 
-🌟 NVIDIA AI Internship Certification
+🌟 NVIDIA AI Internship Certification(Offline)
 Coming Soon
 
 ## 🏆 Achievements
