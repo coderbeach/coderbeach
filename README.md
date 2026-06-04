@@ -6,6 +6,13 @@ AI & ML Student • Builder • Hackathon Enthusiast
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Building+Real+World+Projects;Hackathon+Explorer;Future+AI+Engineer" />
 </p>
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,machinelearning,git,github,mysql,vscode" />
+</p>
+
 ## 🚀 About Me
 
 🎓 B.Tech CSE (AI & ML)
@@ -57,11 +64,6 @@ NGO & Donation Management Platform
 - Dashboard Analytics
 - Foundation Administration
 
-## 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,machinelearning,git,github,mysql,vscode" />
-</p>
 
 
 ## 💼 Internship Experience
