@@ -10,7 +10,7 @@ AI & ML Student • Builder • Hackathon Enthusiast
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,machinelearning,git,github,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,mysql,vscode" />
 </p>
 
 ## 🚀 About Me
