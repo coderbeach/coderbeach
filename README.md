@@ -26,8 +26,8 @@ AI & ML Student • Builder • Hackathon Enthusiast
 - Computer Vision
 - Generative AI
 
-# ⚡ Fun Fact:
-Most of my projects started as crazy ideas during hackathons.
+###Projects:
+
 ## 🛡 SHEShield
 
 Women & Child Safety Platform
