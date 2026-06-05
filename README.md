@@ -26,13 +26,13 @@ AI & ML Student • Builder • Hackathon Enthusiast
 - Computer Vision
 - Generative AI
 
-### Projects:
+# Projects:
 
 ## 🛡 SHEShield
 
 Women & Child Safety Platform
 
-# Features
+## Features
 
 ✅ SOS Emergency Alert
 
@@ -66,7 +66,7 @@ NGO & Donation Management Platform
 
 
 
-## 💼 Internship Experience
+# 💼 Internship Experience
 
 🌟 Web Developer Intern
 InAMigis Foundation
@@ -83,7 +83,7 @@ Elevate Labs
 🌟 NVIDIA AI Internship Certification(Offline)
 Coming Soon
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🥇 Multiple Hackathon Participant
 
