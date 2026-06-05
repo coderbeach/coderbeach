@@ -93,7 +93,7 @@ A curated collection of machine learning workflows, modeling, and exploratory da
 
 ### 💼 Work & Internship Experience
 
-- **Web Developer Intern** | *InAMigis Foundation*
+- **Web Developer Intern** | *InAmigos Foundation*
   - Designed and maintained front-end components, improving site UI/UX and user interaction flow.
 - **Frontend Developer Intern (Offline)** | *Zwapy*
   - Built highly responsive user interfaces and collaborated with cross-functional teams to translate design mockups into code.
@@ -125,14 +125,3 @@ A curated collection of machine learning workflows, modeling, and exploratory da
 
 ---
 
-### 📊 GitHub Stats & Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderbeach&show_icons=true&theme=radical&hide_border=true&title_color=00D2FF&icon_color=00D2FF" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderbeach&theme=radical&hide_border=true&ring=00D2FF&fire=00D2FF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderbeach&layout=compact&theme=radical&hide_border=true&title_color=00D2FF" alt="Top Languages" />
-</p>
