@@ -26,7 +26,7 @@ AI & ML Student • Builder • Hackathon Enthusiast
 - Computer Vision
 - Generative AI
 
-###Projects:
+### Projects:
 
 ## 🛡 SHEShield
 
