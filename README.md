@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/nisarga-n-666a78332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nissymessy14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/coderbeach"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
- <img src="https://komarev.com/normal-badge/?username=coderbeach&color=00d2ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
 
@@ -68,13 +67,13 @@ An end-to-end booking application designed to optimize parking space management:
 - **Slot Booking & Real-Time Availability:** Allows users to check parking slot availability and pre-book slots.
 - **QR Verification & Digital Payments:** Streamlines check-in and checkout operations using secure QR scans and payment gateways.
 
-#### 🎙️ [Audio-to-Text Editor](https://github.com/coderbeach/audio-to-text-editor) — Web Application
+#### 🎙️ [Audio-to-Text Editor](https://github.com/coderbeach/Audio-to-text) — Web Application
 An interactive website designed to transcribe speech into editable documents:
 - **Speech-to-Text Transcription:** Real-time conversion of audio recordings and live voice inputs to text.
 - **Rich Editor Integrations:** Offers formatting, styling, and text export utilities.
 - **Multi-format Support:** Supports transcription from uploaded audio files (such as WAV and MP3).
 
-#### 🐾 [PawHope Foundation](https://github.com/coderbeach/PawHope) — NGO & Donation Management Platform
+#### 🐾 [PawHope Foundation](https://github.com/coderbeach/Donation-tracker) — NGO & Donation Management Platform
 An administrative portal and donor management platform built to support animal welfare organizations:
 - **Donation Tracking & Analytics:** Dashboard visualizations tracking donations and campaign milestones.
 - **Campaign & Foundation Administration:** Modules to organize rescue campaigns, volunteer sign-ups, and operational details.
@@ -87,6 +86,7 @@ A classification model developed using Python and Machine Learning algorithms to
 
 #### 🤖 Machine Learning Mini Projects
 A curated collection of machine learning workflows, modeling, and exploratory data analysis:
+- **Netflix Dataset Analysis:** Classification models predicting client retention rates.
 - **Customer Churn Analysis:** Classification models predicting client retention rates.
 - **Sentiment Classification:** Natural Language Processing (NLP) models classifying text-based product reviews.
 - **House Price Prediction:** Regression algorithms forecasting real estate valuations based on feature parameters.
